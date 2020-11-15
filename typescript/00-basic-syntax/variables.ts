@@ -5,6 +5,7 @@
  * string
  * null/ undefined
  * Object
+ * any
  */
 
 
@@ -16,5 +17,4 @@ for (let i = 0; i < 10; i++) {
 }
 arr[0][2] = 5
 console.log('arr:', arr)
-
 
